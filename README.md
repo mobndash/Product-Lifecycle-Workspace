@@ -17,8 +17,6 @@ This workspace solves that problem by providing:
 - ⚡ **Faster onboarding** for teams and stakeholders  
 - 🎯 **Clear, structured processes** that align everyone  
 
-This is the exact structure I use when starting ANY new product.
-
 ---
 
 ## 🧭 Repository Structure
@@ -81,8 +79,7 @@ This is the exact structure I use when starting ANY new product.
 ## 📝 What You Can Do With This
 
 - Use as a **starter kit** for new product discovery  
-- Share with teams as **documentation standards**  
-- Use during interviews as a **portfolio showcase**  
+- Share with teams as **documentation standards**   
 - Build case studies quickly by filling the templates  
 - Maintain consistency across all your product work  
 
@@ -153,11 +150,6 @@ This is the exact structure I use when starting ANY new product.
 
 ---
 
-## 💼 Want to See a Real Example?  
-Feel free to ask me to generate a *complete sample product* using this template — including filled artifacts, diagrams, and a pitch deck.
-
----
-
 ## 👋 About This Project  
 Built to accelerate product delivery and improve clarity across teams.  
 Designed using industry best practices from:
@@ -169,8 +161,4 @@ Designed using industry best practices from:
 - PMM/PRD Standards  
 
 ---
-
-## ⭐ Support  
-If you find this useful, feel free to ⭐ star the repo.  
-It helps others discover these templates!
 
