@@ -14,18 +14,18 @@ This Notion workspace will demonstrate:
 
 Below are the product lifecycle stages with reusable templates at each stage.
 
-[1_Product Ideation](1_Product%20Ideation.md)
+[1_Product Ideation](1_Ideation)
 
-[2_Discovery_and_Requirements](2_Discovery_and_Requirements.md)
+[2_Discovery_and_Requirements](2_Discovery_and_Requirements)
 
-[3_Design Stage](3_Design%20Stage.md)
+[3_Design Stage](3_Design)
 
-[4_Planning Stage](4_Planning%20Stage.md)
+[4_Planning Stage](4_Planning)
 
-[5_Development_Handoff](5_Development_Handoff.md)
+[5_Development_Handoff](5_Development_Handoff)
 
-[6_Go_Live_and_Rollout](6_Go_Live_and_Rollout.md)
+[6_Go_Live_and_Rollout](6_Go_Live_and_Rollout)
 
-[7_Summary_and_Executive_Pack](7_Summary_and_Executive_Pack.md)
+[7_Summary_and_Executive_Pack](7_Summary_and_Executive_Pack)
 
 Notion Link : https://www.notion.so/Product-Workspace-for-PM-s-BAs-and-product-enthusiasts-2c4e0e153aef803ea257cd4289d46fdf?source=copy_link
